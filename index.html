@@ -1,0 +1,372 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Question Time</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family:
+          -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu,
+          Cantarell, sans-serif;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 20px;
+      }
+
+      .container {
+        background: white;
+        border-radius: 20px;
+        padding: 40px 30px;
+        max-width: 500px;
+        width: 100%;
+        box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+      }
+
+      .header {
+        display: flex;
+        justify-content: space-between;
+        align-items: start;
+        margin-bottom: 10px;
+      }
+
+      h1 {
+        color: #667eea;
+        font-size: 1.8rem;
+        flex: 1;
+      }
+
+      .lang-switch {
+        display: flex;
+        gap: 5px;
+        background: #f0f0f0;
+        border-radius: 8px;
+        padding: 4px;
+      }
+
+      .lang-btn {
+        padding: 6px 12px;
+        border: none;
+        background: transparent;
+        border-radius: 6px;
+        cursor: pointer;
+        font-size: 0.85rem;
+        font-weight: 500;
+        color: #666;
+        transition: all 0.2s ease;
+      }
+
+      .lang-btn.active {
+        background: white;
+        color: #667eea;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      }
+
+      .lang-btn:hover:not(.active) {
+        color: #333;
+      }
+
+      .subtitle {
+        color: #666;
+        margin-bottom: 30px;
+        font-size: 0.9rem;
+      }
+
+      .dice-display {
+        text-align: center;
+        margin: 30px 0;
+        min-height: 100px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+      }
+
+      .dice-number {
+        font-size: 4rem;
+        font-weight: bold;
+        color: #764ba2;
+        transition: all 0.3s ease;
+      }
+
+      .dice-number.rolling {
+        animation: roll 0.5s ease-in-out;
+      }
+
+      @keyframes roll {
+        0%,
+        100% {
+          transform: scale(1) rotate(0deg);
+        }
+        25% {
+          transform: scale(1.2) rotate(90deg);
+        }
+        50% {
+          transform: scale(0.8) rotate(180deg);
+        }
+        75% {
+          transform: scale(1.2) rotate(270deg);
+        }
+      }
+
+      .question-card {
+        background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+        border-radius: 15px;
+        padding: 25px;
+        margin: 20px 0;
+        min-height: 150px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        opacity: 0;
+        transform: translateY(20px);
+        transition: all 0.5s ease;
+      }
+
+      .question-card.show {
+        opacity: 1;
+        transform: translateY(0);
+      }
+
+      .question-text {
+        color: #2d3748;
+        font-size: 1.2rem;
+        line-height: 1.6;
+        text-align: center;
+      }
+
+      .question-number {
+        color: #764ba2;
+        font-weight: bold;
+        font-size: 0.9rem;
+        margin-bottom: 10px;
+        display: block;
+      }
+
+      button.roll-btn {
+        width: 100%;
+        padding: 18px;
+        font-size: 1.1rem;
+        font-weight: 600;
+        color: white;
+        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        border: none;
+        border-radius: 12px;
+        cursor: pointer;
+        transition: all 0.3s ease;
+        box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);
+      }
+
+      button.roll-btn:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 6px 20px rgba(102, 126, 234, 0.6);
+      }
+
+      button.roll-btn:active {
+        transform: translateY(0);
+      }
+
+      button.roll-btn:disabled {
+        opacity: 0.6;
+        cursor: not-allowed;
+        transform: none;
+      }
+
+      .placeholder {
+        color: #999;
+        font-style: italic;
+      }
+
+      .error {
+        color: #e53e3e;
+        text-align: center;
+        padding: 20px;
+      }
+
+      @media (max-width: 480px) {
+        .container {
+          padding: 30px 20px;
+        }
+
+        h1 {
+          font-size: 1.5rem;
+        }
+
+        .dice-number {
+          font-size: 3rem;
+        }
+
+        .question-text {
+          font-size: 1.1rem;
+        }
+
+        .header {
+          flex-direction: column;
+          gap: 10px;
+        }
+
+        .lang-switch {
+          align-self: flex-start;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <div class="header">
+        <div>
+          <h1 id="title">Question Time</h1>
+        </div>
+        <div class="lang-switch">
+          <button
+            class="lang-btn active"
+            data-lang="de"
+            onclick="switchLanguage('de')"
+          >
+            DE
+          </button>
+          <button
+            class="lang-btn"
+            data-lang="en"
+            onclick="switchLanguage('en')"
+          >
+            EN
+          </button>
+        </div>
+      </div>
+
+      <div class="dice-display">
+        <div class="dice-number" id="diceNumber">🎲</div>
+      </div>
+
+      <div class="question-card" id="questionCard">
+        <p class="question-text placeholder" id="placeholder">
+          Drücke den Button für eine zufällige Frage
+        </p>
+      </div>
+
+      <button class="roll-btn" id="rollButton" onclick="rollDice()">
+        Würfeln
+      </button>
+    </div>
+
+    <script>
+      let questions = [];
+      let currentLang = "de";
+      let currentQuestion = null;
+
+      const translations = {
+        de: {
+          title: "Fragestunde",
+          placeholder: "Drücke den Button für eine zufällige Frage",
+          rollButton: "Würfeln",
+          questionLabel: "Frage",
+          loadError:
+            "Fehler beim Laden der Fragen. Stelle sicher, dass questions.json im selben Verzeichnis liegt.",
+        },
+        en: {
+          title: "Question Time",
+          placeholder: "Press the button for a random question",
+          rollButton: "Roll",
+          questionLabel: "Question",
+          loadError:
+            "Error loading questions. Make sure questions.json is in the same directory.",
+        },
+      };
+
+      async function loadQuestions() {
+        try {
+          const response = await fetch("questions.json");
+          if (!response.ok) throw new Error("Failed to load questions");
+          questions = await response.json();
+        } catch (error) {
+          console.error("Error loading questions:", error);
+          document.getElementById("questionCard").innerHTML =
+            `<p class="question-text error">${translations[currentLang].loadError}</p>`;
+        }
+      }
+
+      function switchLanguage(lang) {
+        currentLang = lang;
+
+        // Update active button
+        document.querySelectorAll(".lang-btn").forEach((btn) => {
+          btn.classList.toggle("active", btn.dataset.lang === lang);
+        });
+
+        // Update UI text
+        document.getElementById("title").textContent = translations[lang].title;
+        document.getElementById("rollButton").textContent =
+          translations[lang].rollButton;
+
+        // Update placeholder or current question
+        if (currentQuestion === null) {
+          document.getElementById("placeholder").textContent =
+            translations[lang].placeholder;
+        } else {
+          showQuestion(currentQuestion);
+        }
+      }
+
+      function rollDice() {
+        const btn = document.getElementById("rollButton");
+        const diceNum = document.getElementById("diceNumber");
+        const card = document.getElementById("questionCard");
+
+        btn.disabled = true;
+        card.classList.remove("show");
+
+        diceNum.classList.add("rolling");
+
+        let counter = 0;
+        const interval = setInterval(() => {
+          diceNum.textContent =
+            Math.floor(Math.random() * questions.length) + 1;
+          counter++;
+
+          if (counter > 10) {
+            clearInterval(interval);
+            const finalRoll = Math.floor(Math.random() * questions.length) + 1;
+            diceNum.textContent = finalRoll;
+            diceNum.classList.remove("rolling");
+
+            setTimeout(() => {
+              currentQuestion = finalRoll;
+              showQuestion(finalRoll);
+              btn.disabled = false;
+            }, 300);
+          }
+        }, 50);
+      }
+
+      function showQuestion(number) {
+        const card = document.getElementById("questionCard");
+        const question = questions[number - 1];
+        const text = question[currentLang] || question.de;
+
+        card.innerHTML = `
+                <div>
+                    <span class="question-number">${translations[currentLang].questionLabel} ${number}</span>
+                    <p class="question-text">${text}</p>
+                </div>
+            `;
+
+        setTimeout(() => {
+          card.classList.add("show");
+        }, 50);
+      }
+
+      // Load questions on page load
+      loadQuestions();
+    </script>
+  </body>
+</html>

@@ -1,0 +1,402 @@
+[
+  {
+    "de": "Warum gibt es überhaupt etwas und nicht nichts?",
+    "en": "Why is there something rather than nothing?"
+  },
+  {
+    "de": "Was ist Zeit?",
+    "en": "What is time?"
+  },
+  {
+    "de": "Gibt es Zufall?",
+    "en": "Does chance exist?"
+  },
+  {
+    "de": "Was ist Bewusstsein?",
+    "en": "What is consciousness?"
+  },
+  {
+    "de": "Warum müssen wir sterben?",
+    "en": "Why must we die?"
+  },
+  {
+    "de": "Was ist Glück?",
+    "en": "What is happiness?"
+  },
+  {
+    "de": "Gibt es Wahrheit?",
+    "en": "Does truth exist?"
+  },
+  {
+    "de": "Was ist Freiheit?",
+    "en": "What is freedom?"
+  },
+  {
+    "de": "Warum gibt es Leid?",
+    "en": "Why does suffering exist?"
+  },
+  {
+    "de": "Was ist Liebe?",
+    "en": "What is love?"
+  },
+  {
+    "de": "Bin ich derselbe Mensch wie gestern?",
+    "en": "Am I the same person as yesterday?"
+  },
+  {
+    "de": "Was ist Gerechtigkeit?",
+    "en": "What is justice?"
+  },
+  {
+    "de": "Warum träumen wir?",
+    "en": "Why do we dream?"
+  },
+  {
+    "de": "Was ist Schönheit?",
+    "en": "What is beauty?"
+  },
+  {
+    "de": "Gibt es ein Leben nach dem Tod?",
+    "en": "Is there life after death?"
+  },
+  {
+    "de": "Was ist der Sinn des Lebens?",
+    "en": "What is the meaning of life?"
+  },
+  {
+    "de": "Können Maschinen denken?",
+    "en": "Can machines think?"
+  },
+  {
+    "de": "Was ist Intelligenz?",
+    "en": "What is intelligence?"
+  },
+  {
+    "de": "Warum gibt es Böses?",
+    "en": "Why does evil exist?"
+  },
+  {
+    "de": "Was ist Realität?",
+    "en": "What is reality?"
+  },
+  {
+    "de": "Können wir wirklich etwas wissen?",
+    "en": "Can we truly know anything?"
+  },
+  {
+    "de": "Was ist Kunst?",
+    "en": "What is art?"
+  },
+  {
+    "de": "Warum lachen wir?",
+    "en": "Why do we laugh?"
+  },
+  {
+    "de": "Was ist ein gutes Leben?",
+    "en": "What is a good life?"
+  },
+  {
+    "de": "Gibt es freien Willen?",
+    "en": "Does free will exist?"
+  },
+  {
+    "de": "Was ist Moral?",
+    "en": "What is morality?"
+  },
+  {
+    "de": "Warum gibt es Sprache?",
+    "en": "Why does language exist?"
+  },
+  {
+    "de": "Was ist normal?",
+    "en": "What is normal?"
+  },
+  {
+    "de": "Können Tiere denken?",
+    "en": "Can animals think?"
+  },
+  {
+    "de": "Was ist Angst?",
+    "en": "What is fear?"
+  },
+  {
+    "de": "Warum vergessen wir?",
+    "en": "Why do we forget?"
+  },
+  {
+    "de": "Was ist Identität?",
+    "en": "What is identity?"
+  },
+  {
+    "de": "Gibt es objektive Werte?",
+    "en": "Do objective values exist?"
+  },
+  {
+    "de": "Was ist Kultur?",
+    "en": "What is culture?"
+  },
+  {
+    "de": "Warum weinen wir?",
+    "en": "Why do we cry?"
+  },
+  {
+    "de": "Was ist Kreativität?",
+    "en": "What is creativity?"
+  },
+  {
+    "de": "Gibt es Schicksal?",
+    "en": "Does fate exist?"
+  },
+  {
+    "de": "Was ist Weisheit?",
+    "en": "What is wisdom?"
+  },
+  {
+    "de": "Warum schlafen wir?",
+    "en": "Why do we sleep?"
+  },
+  {
+    "de": "Was ist Hoffnung?",
+    "en": "What is hope?"
+  },
+  {
+    "de": "Können wir die Zukunft vorhersagen?",
+    "en": "Can we predict the future?"
+  },
+  {
+    "de": "Was ist Mut?",
+    "en": "What is courage?"
+  },
+  {
+    "de": "Warum spielen wir?",
+    "en": "Why do we play?"
+  },
+  {
+    "de": "Was ist Vertrauen?",
+    "en": "What is trust?"
+  },
+  {
+    "de": "Gibt es absolute Wahrheit?",
+    "en": "Does absolute truth exist?"
+  },
+  {
+    "de": "Was ist Langeweile?",
+    "en": "What is boredom?"
+  },
+  {
+    "de": "Warum brauchen wir Freunde?",
+    "en": "Why do we need friends?"
+  },
+  {
+    "de": "Was ist Einsamkeit?",
+    "en": "What is loneliness?"
+  },
+  {
+    "de": "Gibt es Fortschritt?",
+    "en": "Does progress exist?"
+  },
+  {
+    "de": "Was ist Würde?",
+    "en": "What is dignity?"
+  },
+  {
+    "de": "Warum haben wir Vorurteile?",
+    "en": "Why do we have prejudices?"
+  },
+  {
+    "de": "Was ist Empathie?",
+    "en": "What is empathy?"
+  },
+  {
+    "de": "Gibt es natürliche Rechte?",
+    "en": "Do natural rights exist?"
+  },
+  {
+    "de": "Was ist Frieden?",
+    "en": "What is peace?"
+  },
+  {
+    "de": "Warum suchen wir Sinn?",
+    "en": "Why do we seek meaning?"
+  },
+  {
+    "de": "Was ist Authentizität?",
+    "en": "What is authenticity?"
+  },
+  {
+    "de": "Gibt es ein richtiges Leben im falschen?",
+    "en": "Is there a right life in the wrong one?"
+  },
+  {
+    "de": "Was ist Neugier?",
+    "en": "What is curiosity?"
+  },
+  {
+    "de": "Warum haben wir Erinnerungen?",
+    "en": "Why do we have memories?"
+  },
+  {
+    "de": "Was ist Respekt?",
+    "en": "What is respect?"
+  },
+  {
+    "de": "Gibt es Schuld?",
+    "en": "Does guilt exist?"
+  },
+  {
+    "de": "Was ist Toleranz?",
+    "en": "What is tolerance?"
+  },
+  {
+    "de": "Warum brauchen wir Rituale?",
+    "en": "Why do we need rituals?"
+  },
+  {
+    "de": "Was ist Vernunft?",
+    "en": "What is reason?"
+  },
+  {
+    "de": "Gibt es ewige Wahrheiten?",
+    "en": "Do eternal truths exist?"
+  },
+  {
+    "de": "Was ist Intuition?",
+    "en": "What is intuition?"
+  },
+  {
+    "de": "Warum gibt es Konflikte?",
+    "en": "Why do conflicts exist?"
+  },
+  {
+    "de": "Was ist Solidarität?",
+    "en": "What is solidarity?"
+  },
+  {
+    "de": "Gibt es Objektivität?",
+    "en": "Does objectivity exist?"
+  },
+  {
+    "de": "Was ist Fantasie?",
+    "en": "What is imagination?"
+  },
+  {
+    "de": "Warum ändern sich Werte?",
+    "en": "Why do values change?"
+  },
+  {
+    "de": "Was ist Verantwortung?",
+    "en": "What is responsibility?"
+  },
+  {
+    "de": "Gibt es natürliche Gesetze?",
+    "en": "Do natural laws exist?"
+  },
+  {
+    "de": "Was ist Selbstbewusstsein?",
+    "en": "What is self-awareness?"
+  },
+  {
+    "de": "Warum haben wir Gewissen?",
+    "en": "Why do we have a conscience?"
+  },
+  {
+    "de": "Was ist Dankbarkeit?",
+    "en": "What is gratitude?"
+  },
+  {
+    "de": "Gibt es metaphysische Wahrheiten?",
+    "en": "Do metaphysical truths exist?"
+  },
+  {
+    "de": "Was ist Demut?",
+    "en": "What is humility?"
+  },
+  {
+    "de": "Warum gibt es Hierarchien?",
+    "en": "Why do hierarchies exist?"
+  },
+  {
+    "de": "Was ist Harmonie?",
+    "en": "What is harmony?"
+  },
+  {
+    "de": "Gibt es unschuldiges Leiden?",
+    "en": "Does innocent suffering exist?"
+  },
+  {
+    "de": "Was ist Ehrlichkeit?",
+    "en": "What is honesty?"
+  },
+  {
+    "de": "Warum kategorisieren wir?",
+    "en": "Why do we categorize?"
+  },
+  {
+    "de": "Was ist Mitgefühl?",
+    "en": "What is compassion?"
+  },
+  {
+    "de": "Gibt es gerechte Kriege?",
+    "en": "Do just wars exist?"
+  },
+  {
+    "de": "Was ist Tapferkeit?",
+    "en": "What is bravery?"
+  },
+  {
+    "de": "Warum suchen wir Ordnung?",
+    "en": "Why do we seek order?"
+  },
+  {
+    "de": "Was ist Besonnenheit?",
+    "en": "What is prudence?"
+  },
+  {
+    "de": "Gibt es vollkommenes Wissen?",
+    "en": "Does perfect knowledge exist?"
+  },
+  {
+    "de": "Was ist Großzügigkeit?",
+    "en": "What is generosity?"
+  },
+  {
+    "de": "Warum gibt es Tabus?",
+    "en": "Why do taboos exist?"
+  },
+  {
+    "de": "Was ist Gelassenheit?",
+    "en": "What is serenity?"
+  },
+  {
+    "de": "Gibt es reine Vernunft?",
+    "en": "Does pure reason exist?"
+  },
+  {
+    "de": "Was ist Treue?",
+    "en": "What is loyalty?"
+  },
+  {
+    "de": "Warum gibt es Eifersucht?",
+    "en": "Why does jealousy exist?"
+  },
+  {
+    "de": "Was ist Bescheidenheit?",
+    "en": "What is modesty?"
+  },
+  {
+    "de": "Gibt es absolute Ethik?",
+    "en": "Does absolute ethics exist?"
+  },
+  {
+    "de": "Was ist Geduld?",
+    "en": "What is patience?"
+  },
+  {
+    "de": "Warum gibt es Neid?",
+    "en": "Why does envy exist?"
+  },
+  {
+    "de": "Was ist Beharrlichkeit?",
+    "en": "What is perseverance?"
+  }
+]
