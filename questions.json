@@ -1,402 +1,514 @@
 [
   {
-    "de": "Warum gibt es überhaupt etwas und nicht nichts?",
-    "en": "Why is there something rather than nothing?"
+    "de": "Wie würdest du dich vorstellen, wenn du jemand Neues kennenlernst?",
+    "en": "How would you introduce yourself when meeting someone new?"
   },
   {
-    "de": "Was ist Zeit?",
-    "en": "What is time?"
+    "de": "Wenn du eingeladen würdest, mit zur ISS zu fliegen, würdest du es machen zum Mond, zum Mars, wie weit von zu Hause würdest du höchstens reisen wollen?",
+    "en": "If you were invited to fly to the ISS, the Moon, or Mars, how far from home would you be willing to travel at most?"
   },
   {
-    "de": "Gibt es Zufall?",
-    "en": "Does chance exist?"
+    "de": "Wenn du das Wochenende verlängern könntest, sollte lieber der Freitag oder der Montag mit dazugehören?",
+    "en": "If you could extend the weekend, should Friday or Monday be included?"
   },
   {
-    "de": "Was ist Bewusstsein?",
-    "en": "What is consciousness?"
+    "de": "1, 2, 3, 4? oder 5 und 6?",
+    "en": "1, 2, 3, 4? or 5 and 6?"
   },
   {
-    "de": "Warum müssen wir sterben?",
-    "en": "Why must we die?"
+    "de": "Wann hattest du das letzte Mal Schadenfreude?",
+    "en": "When was the last time you felt schadenfreude?"
   },
   {
-    "de": "Was ist Glück?",
-    "en": "What is happiness?"
+    "de": "Hund oder Katze?",
+    "en": "Dog or cat?"
   },
   {
-    "de": "Gibt es Wahrheit?",
-    "en": "Does truth exist?"
+    "de": "Wenn du eine Geschichte ausgeschrieben hast und sie 10 mal ausdruckst, sind es dann 10 Geschichten oder immer noch eine?",
+    "en": "If you've written a story and print it 10 times, are there 10 stories or still just one?"
   },
   {
-    "de": "Was ist Freiheit?",
-    "en": "What is freedom?"
+    "de": "Vergelten oder vergeben?",
+    "en": "Retaliate or forgive?"
   },
   {
-    "de": "Warum gibt es Leid?",
-    "en": "Why does suffering exist?"
+    "de": "Was tun, wenn die Ampel nie grün wird?",
+    "en": "What do you do when the traffic light never turns green?"
   },
   {
-    "de": "Was ist Liebe?",
-    "en": "What is love?"
+    "de": "Was ist einfacher, um Verzeihung bitten oder um Erlaubnis zu fragen?",
+    "en": "What's easier: asking for forgiveness or asking for permission?"
   },
   {
-    "de": "Bin ich derselbe Mensch wie gestern?",
-    "en": "Am I the same person as yesterday?"
+    "de": "Welches Tier wärst du gern?",
+    "en": "What animal would you like to be?"
   },
   {
-    "de": "Was ist Gerechtigkeit?",
-    "en": "What is justice?"
+    "de": "Wie lange dauert das \"jetzt\"?",
+    "en": "How long does 'now' last?"
   },
   {
-    "de": "Warum träumen wir?",
-    "en": "Why do we dream?"
+    "de": "Wenn du Gott wärst, was würdest du tun?",
+    "en": "If you were God, what would you do?"
   },
   {
-    "de": "Was ist Schönheit?",
-    "en": "What is beauty?"
+    "de": "Was ist dein Lieblingsbuchstabe?",
+    "en": "What's your favorite letter?"
   },
   {
-    "de": "Gibt es ein Leben nach dem Tod?",
-    "en": "Is there life after death?"
+    "de": "Ist ein Problem immer noch ein Problem, wenn du nicht mehr denkst, dass es ein Problem ist?",
+    "en": "Is a problem still a problem if you no longer think it's a problem?"
   },
   {
-    "de": "Was ist der Sinn des Lebens?",
-    "en": "What is the meaning of life?"
+    "de": "Lieber einen Stift, der alles real werden lässt, was du zeichnest, oder einen Radierer, der alles Reale wegradieren kann?",
+    "en": "Would you rather have a pen that makes everything you draw real, or an eraser that can erase anything real?"
   },
   {
-    "de": "Können Maschinen denken?",
-    "en": "Can machines think?"
+    "de": "Mondlicht oder Sonnenschein?",
+    "en": "Moonlight or sunshine?"
   },
   {
-    "de": "Was ist Intelligenz?",
-    "en": "What is intelligence?"
+    "de": "Wenn du einen Ausserirdischen bei dir zu Hause aufnehmen würdest, würdest du anderen Menschen davon erzählen?",
+    "en": "If you took in an alien at your home, would you tell other people about it?"
   },
   {
-    "de": "Warum gibt es Böses?",
-    "en": "Why does evil exist?"
+    "de": "Für wieviel bist du käuflich?",
+    "en": "What's your price?"
   },
   {
-    "de": "Was ist Realität?",
-    "en": "What is reality?"
+    "de": "Gibt es etwas, von dem du noch weißt, wann du es das erste Mal gemacht hast?",
+    "en": "Is there something where you still remember when you did it for the first time?"
   },
   {
-    "de": "Können wir wirklich etwas wissen?",
-    "en": "Can we truly know anything?"
+    "de": "GIbt es Zufall?",
+    "en": "Does coincidence exist?"
   },
   {
-    "de": "Was ist Kunst?",
-    "en": "What is art?"
+    "de": "Lieber Gute Noten oder Gute Freunde?",
+    "en": "Good grades or good friends?"
   },
   {
-    "de": "Warum lachen wir?",
-    "en": "Why do we laugh?"
+    "de": "Sollten Kinder wählen dürfen?",
+    "en": "Should children be allowed to vote?"
   },
   {
-    "de": "Was ist ein gutes Leben?",
-    "en": "What is a good life?"
+    "de": "Wann ist dir langweilig?",
+    "en": "When do you get bored?"
   },
   {
-    "de": "Gibt es freien Willen?",
-    "en": "Does free will exist?"
+    "de": "Was ist besser, dumm und glücklich oder schlau und traurig?",
+    "en": "What's better: dumb and happy or smart and sad?"
   },
   {
-    "de": "Was ist Moral?",
-    "en": "What is morality?"
+    "de": "Das ist deine früheste Erinnerung?",
+    "en": "What is your earliest memory?"
   },
   {
-    "de": "Warum gibt es Sprache?",
-    "en": "Why does language exist?"
+    "de": "Was ist die beste Art, Bücher im Regal zu ordnen?",
+    "en": "What's the best way to organize books on a shelf?"
   },
   {
-    "de": "Was ist normal?",
-    "en": "What is normal?"
+    "de": "Was verstehen Menschen, die jünger sind als du, noch nicht?",
+    "en": "What do people younger than you not understand yet?"
   },
   {
-    "de": "Können Tiere denken?",
-    "en": "Can animals think?"
+    "de": "Was war die wichtigste Erfindung der Menschheit?",
+    "en": "What was humanity's most important invention?"
   },
   {
-    "de": "Was ist Angst?",
-    "en": "What is fear?"
+    "de": "Was weißt du, dass du nicht beweisen kannst?",
+    "en": "What do you know that you can't prove?"
   },
   {
-    "de": "Warum vergessen wir?",
-    "en": "Why do we forget?"
+    "de": "Was würdest du gerne lernen?",
+    "en": "What would you like to learn?"
   },
   {
-    "de": "Was ist Identität?",
-    "en": "What is identity?"
+    "de": "Welche Superkraft hättest du gern?",
+    "en": "What superpower would you like to have?"
   },
   {
-    "de": "Gibt es objektive Werte?",
-    "en": "Do objective values exist?"
+    "de": "Welches Monster ist am erschreckendsten?",
+    "en": "What monster is the scariest?"
   },
   {
-    "de": "Was ist Kultur?",
-    "en": "What is culture?"
+    "de": "Wenn du in einem anderen Land leben könntest, welches würdest du dir aussuchen?",
+    "en": "If you could live in another country, which would you choose?"
   },
   {
-    "de": "Warum weinen wir?",
-    "en": "Why do we cry?"
+    "de": "Wenn du in irgendeiner Zeitperiode leben könntest, welche wäre das?",
+    "en": "If you could live in any time period, which would it be?"
   },
   {
-    "de": "Was ist Kreativität?",
-    "en": "What is creativity?"
+    "de": "Wer muss den Maibaum wegbringen? Der Schenkende oder die Beschenkte?",
+    "en": "Who has to take away the May tree? The giver or the recipient?"
   },
   {
-    "de": "Gibt es Schicksal?",
-    "en": "Does fate exist?"
+    "de": "Hast du ein Lieblingswort?",
+    "en": "Do you have a favorite word?"
   },
   {
-    "de": "Was ist Weisheit?",
-    "en": "What is wisdom?"
+    "de": "Ist das Glas halb voll oder halb leer?",
+    "en": "Is the glass half full or half empty?"
   },
   {
-    "de": "Warum schlafen wir?",
-    "en": "Why do we sleep?"
+    "de": "Ketchup, Mayo oder Senf?",
+    "en": "Ketchup, mayo, or mustard?"
   },
   {
-    "de": "Was ist Hoffnung?",
-    "en": "What is hope?"
+    "de": "Was ist deine Glückszahl?",
+    "en": "What's your lucky number?"
   },
   {
-    "de": "Können wir die Zukunft vorhersagen?",
-    "en": "Can we predict the future?"
+    "de": "Was wirst du niemals mögen?",
+    "en": "What will you never like?"
   },
   {
-    "de": "Was ist Mut?",
-    "en": "What is courage?"
+    "de": "Wo sind alle?",
+    "en": "Where is everyone?"
   },
   {
-    "de": "Warum spielen wir?",
-    "en": "Why do we play?"
+    "de": "Geschenke überreichen: Lieber sofort oder warten bis zum Geburtstag?",
+    "en": "Giving gifts: right away or wait until the birthday?"
   },
   {
-    "de": "Was ist Vertrauen?",
-    "en": "What is trust?"
+    "de": "Sieht das Gelb, das du siehst, so aus wie das Gelb, das ich sehe?",
+    "en": "Does the yellow you see look like the yellow I see?"
   },
   {
-    "de": "Gibt es absolute Wahrheit?",
-    "en": "Does absolute truth exist?"
+    "de": "Sparen oder ausgeben?",
+    "en": "Save or spend?"
   },
   {
-    "de": "Was ist Langeweile?",
-    "en": "What is boredom?"
+    "de": "Was sind drei Dinge, die du bei einem Feuer zu Hause retten würdest?",
+    "en": "What are three things you would save in a house fire?"
   },
   {
-    "de": "Warum brauchen wir Freunde?",
-    "en": "Why do we need friends?"
+    "de": "Welchen Geruch verbindest du am stärksten mit deiner Schule?",
+    "en": "What smell do you associate most strongly with your school?"
   },
   {
-    "de": "Was ist Einsamkeit?",
-    "en": "What is loneliness?"
+    "de": "Wenn du es dir aussuchen könntest, wie würdest du gern heißen?",
+    "en": "If you could choose, what would you like to be named?"
   },
   {
-    "de": "Gibt es Fortschritt?",
-    "en": "Does progress exist?"
+    "de": "Wenn du in den Spiegel schaust, wohin fällt dein Blick als erstes?",
+    "en": "When you look in the mirror, where does your gaze fall first?"
   },
   {
-    "de": "Was ist Würde?",
-    "en": "What is dignity?"
+    "de": "Wenn du nur noch ein Jahr leben würdest, was würdest du machen?",
+    "en": "If you only had one year left to live, what would you do?"
   },
   {
-    "de": "Warum haben wir Vorurteile?",
-    "en": "Why do we have prejudices?"
+    "de": "Wie weit kannst du sehen?",
+    "en": "How far can you see?"
   },
   {
-    "de": "Was ist Empathie?",
-    "en": "What is empathy?"
+    "de": "Beim Anstehen an der Achterbahn lieber die ganze Zeit langsam bewegen oder lange stehen und dann einige Schritte machen?",
+    "en": "When waiting in line for a roller coaster, would you rather move slowly the whole time or stand still for a long time and then take a few steps?"
   },
   {
-    "de": "Gibt es natürliche Rechte?",
-    "en": "Do natural rights exist?"
+    "de": "Kannst du dich mit einem Wort beschreiben?",
+    "en": "Can you describe yourself with one word?"
   },
   {
-    "de": "Was ist Frieden?",
-    "en": "What is peace?"
+    "de": "Was war deine beste Geburtstagsparty?",
+    "en": "What was your best birthday party?"
   },
   {
-    "de": "Warum suchen wir Sinn?",
-    "en": "Why do we seek meaning?"
+    "de": "Was war der beste Ratschlag, den du bisher bekommen hast?",
+    "en": "What was the best advice you've received so far?"
   },
   {
-    "de": "Was ist Authentizität?",
-    "en": "What is authenticity?"
+    "de": "Welche deiner Sinne würdest du hundertfach verstärken wollen?",
+    "en": "Which of your senses would you want to amplify a hundredfold?"
   },
   {
-    "de": "Gibt es ein richtiges Leben im falschen?",
-    "en": "Is there a right life in the wrong one?"
+    "de": "Wenn du eine Tablette nehmen könntest, statt zu schlafen, würdest du das machen?",
+    "en": "If you could take a pill instead of sleeping, would you do it?"
   },
   {
-    "de": "Was ist Neugier?",
-    "en": "What is curiosity?"
+    "de": "Du kommst an eine Gabelung. Nimmst du den Weg links zum Strand oder rechts zum Wald?",
+    "en": "You come to a fork. Do you take the path left to the beach or right to the forest?"
   },
   {
-    "de": "Warum haben wir Erinnerungen?",
-    "en": "Why do we have memories?"
+    "de": "Fühlst du dich anders, wenn du weißt, wo du herkommst?",
+    "en": "Do you feel different when you know where you come from?"
   },
   {
-    "de": "Was ist Respekt?",
-    "en": "What is respect?"
+    "de": "Vollmond oder Neumond?",
+    "en": "Full moon or new moon?"
   },
   {
-    "de": "Gibt es Schuld?",
-    "en": "Does guilt exist?"
+    "de": "Welche schlechte Eigenschaft deiner Eltern möchtest du niemals annehmen?",
+    "en": "What bad trait of your parents would you never want to adopt?"
   },
   {
-    "de": "Was ist Toleranz?",
-    "en": "What is tolerance?"
+    "de": "Wenn wir aus Fehlern lernen, dann haben wir so viel Angst, Fehler zu machen?",
+    "en": "If we learn from mistakes, why are we so afraid of making them?"
   },
   {
-    "de": "Warum brauchen wir Rituale?",
-    "en": "Why do we need rituals?"
+    "de": "Wie würdest du einem blinden Menschen Farben beschreiben?",
+    "en": "How would you describe colors to a blind person?"
   },
   {
-    "de": "Was ist Vernunft?",
-    "en": "What is reason?"
+    "de": "Wo im Körper entstehen Gefühle? Sind Gefühle nur eine besondere Art von Gedanken?",
+    "en": "Where in the body do feelings originate? Are feelings just a special kind of thoughts?"
   },
   {
-    "de": "Gibt es ewige Wahrheiten?",
-    "en": "Do eternal truths exist?"
+    "de": "Würdest du gern für immer in dem Alter bleiben, das du jetzt hast?",
+    "en": "Would you like to stay at the age you are now forever?"
   },
   {
-    "de": "Was ist Intuition?",
-    "en": "What is intuition?"
+    "de": "Wenn du ein Lied im Radio hörst, wo ist dann das Lied?",
+    "en": "When you hear a song on the radio, where is the song?"
   },
   {
-    "de": "Warum gibt es Konflikte?",
-    "en": "Why do conflicts exist?"
+    "de": "Machst du gern, was du gut kannst, oder umgekehrt?",
+    "en": "Do you like doing what you're good at, or the other way around?"
   },
   {
-    "de": "Was ist Solidarität?",
-    "en": "What is solidarity?"
+    "de": "Wenn du statt zu essen eine Tablette nehmen könntest, würdest du das machen?",
+    "en": "If you could take a pill instead of eating, would you do it?"
   },
   {
-    "de": "Gibt es Objektivität?",
-    "en": "Does objectivity exist?"
+    "de": "Schuluniform: Ja oder nein?",
+    "en": "School uniform: yes or no?"
   },
   {
-    "de": "Was ist Fantasie?",
-    "en": "What is imagination?"
+    "de": "Wenn du doppelt so hübsch, doppelt so intelligent oder doppelt so beliebt sein könntest, wie du es jetzt bist, was würdest du dir aussuchen?",
+    "en": "If you could be twice as attractive, twice as intelligent, or twice as popular as you are now, what would you choose?"
   },
   {
-    "de": "Warum ändern sich Werte?",
-    "en": "Why do values change?"
+    "de": "Was war zuerst da: Die Henne oder das Ei?",
+    "en": "What came first: the chicken or the egg?"
   },
   {
-    "de": "Was ist Verantwortung?",
-    "en": "What is responsibility?"
+    "de": "Könnte man dir alle Macht der Welt anvertrauen?",
+    "en": "Could you be entrusted with all the power in the world?"
   },
   {
-    "de": "Gibt es natürliche Gesetze?",
-    "en": "Do natural laws exist?"
+    "de": "Alle Sprachen der Menschen verstehen oder mit Tieren reden?",
+    "en": "Understand all human languages or talk to animals?"
   },
   {
-    "de": "Was ist Selbstbewusstsein?",
-    "en": "What is self-awareness?"
+    "de": "Wenn du 50 Millionen im Lotto gewinnen würdest, wofür würdest du das Geld ausgeben?",
+    "en": "If you won 50 million in the lottery, what would you spend the money on?"
   },
   {
-    "de": "Warum haben wir Gewissen?",
-    "en": "Why do we have a conscience?"
+    "de": "Ordnung oder Unordnung?",
+    "en": "Order or chaos?"
   },
   {
-    "de": "Was ist Dankbarkeit?",
-    "en": "What is gratitude?"
+    "de": "Was werden die Leute auf deiner Beerdigung sagen?",
+    "en": "What will people say at your funeral?"
   },
   {
-    "de": "Gibt es metaphysische Wahrheiten?",
-    "en": "Do metaphysical truths exist?"
+    "de": "Wenn du nicht weißt, wie du dich entscheiden sollst, was machst du dann?",
+    "en": "When you don't know how to decide, what do you do?"
   },
   {
-    "de": "Was ist Demut?",
-    "en": "What is humility?"
+    "de": "Was macht dich so richtig wütend?",
+    "en": "What makes you really angry?"
   },
   {
-    "de": "Warum gibt es Hierarchien?",
-    "en": "Why do hierarchies exist?"
+    "de": "Können sich Menschen ändern?",
+    "en": "Can people change?"
   },
   {
-    "de": "Was ist Harmonie?",
-    "en": "What is harmony?"
+    "de": "Was ist das Idiotischste, das du tun kannst?",
+    "en": "What's the dumbest thing you can do?"
   },
   {
-    "de": "Gibt es unschuldiges Leiden?",
-    "en": "Does innocent suffering exist?"
+    "de": "Kann es Dinge geben, die keinen Namen haben?",
+    "en": "Can there be things that have no name?"
   },
   {
-    "de": "Was ist Ehrlichkeit?",
-    "en": "What is honesty?"
+    "de": "Denkst du, du könntest etwas richtig Böses tun?",
+    "en": "Do you think you could do something truly evil?"
   },
   {
-    "de": "Warum kategorisieren wir?",
-    "en": "Why do we categorize?"
+    "de": "Welches ausgestorbene Tier würdest du am liebsten zurückbringen?",
+    "en": "What extinct animal would you most like to bring back?"
   },
   {
-    "de": "Was ist Mitgefühl?",
-    "en": "What is compassion?"
+    "de": "Was würdest du fragen, wenn die Antwort, die du bekommst, auf jeden Fall stimmen würde?",
+    "en": "What would you ask if the answer you get would definitely be true?"
   },
   {
-    "de": "Gibt es gerechte Kriege?",
-    "en": "Do just wars exist?"
+    "de": "Wenn du eine einzige Regel aufstellen könntest, an die sich alle halten müssten, welche Regel wäre das?",
+    "en": "If you could establish a single rule that everyone had to follow, what rule would it be?"
   },
   {
-    "de": "Was ist Tapferkeit?",
-    "en": "What is bravery?"
+    "de": "In welcher Film- oder Romanwelt würdest du am liebsten leben?",
+    "en": "In which movie or novel world would you most like to live?"
   },
   {
-    "de": "Warum suchen wir Ordnung?",
-    "en": "Why do we seek order?"
+    "de": "Ist weinen schwieriger als lachen?",
+    "en": "Is crying harder than laughing?"
   },
   {
-    "de": "Was ist Besonnenheit?",
-    "en": "What is prudence?"
+    "de": "Von was bekommst du Gänsehaut?",
+    "en": "What gives you goosebumps?"
   },
   {
-    "de": "Gibt es vollkommenes Wissen?",
-    "en": "Does perfect knowledge exist?"
+    "de": "Wenn du eines Morgens aufwachen würdest und dich an nichts mehr erinnern könntest, wärst das immer noch du?",
+    "en": "If you woke up one morning and couldn't remember anything, would that still be you?"
   },
   {
-    "de": "Was ist Großzügigkeit?",
-    "en": "What is generosity?"
+    "de": "Ab wann ist ein altes Fahrrad ein neues Fahrrad wenn immer mehr Teile ausgetauscht werden?",
+    "en": "At what point does an old bicycle become a new bicycle when more and more parts are replaced?"
   },
   {
-    "de": "Warum gibt es Tabus?",
-    "en": "Why do taboos exist?"
+    "de": "Wie sähe der ideale Spielplatz aus?",
+    "en": "What would the ideal playground look like?"
   },
   {
-    "de": "Was ist Gelassenheit?",
-    "en": "What is serenity?"
+    "de": "Einzelkind oder Geschwister?",
+    "en": "Only child or siblings?"
   },
   {
-    "de": "Gibt es reine Vernunft?",
-    "en": "Does pure reason exist?"
+    "de": "Was hat bei dir das letzte Mal Heimweh ausgelöst?",
+    "en": "What triggered homesickness in you last time?"
   },
   {
-    "de": "Was ist Treue?",
-    "en": "What is loyalty?"
+    "de": "Aufstehen oder liegen bleiben?",
+    "en": "Get up or stay in bed?"
   },
   {
-    "de": "Warum gibt es Eifersucht?",
-    "en": "Why does jealousy exist?"
+    "de": "Leben wir in einer Computersimulation?",
+    "en": "Do we live in a computer simulation?"
   },
   {
-    "de": "Was ist Bescheidenheit?",
-    "en": "What is modesty?"
+    "de": "Was ist dein schönster Traum?",
+    "en": "What is your most beautiful dream?"
   },
   {
-    "de": "Gibt es absolute Ethik?",
-    "en": "Does absolute ethics exist?"
+    "de": "Was ist eigentlich alles unendlich?",
+    "en": "What is actually infinite?"
   },
   {
-    "de": "Was ist Geduld?",
-    "en": "What is patience?"
+    "de": "Wofür gibt es Kunst?",
+    "en": "What is art for?"
   },
   {
-    "de": "Warum gibt es Neid?",
-    "en": "Why does envy exist?"
+    "de": "Wenn du eine Minute lang zu allen Menschen auf der Welt sprechen könntest, was würdest du sagen?",
+    "en": "If you could speak to all people in the world for one minute, what would you say?"
   },
   {
-    "de": "Was ist Beharrlichkeit?",
-    "en": "What is perseverance?"
+    "de": "Was bedeutet für dich Erwachsensein?",
+    "en": "What does being an adult mean to you?"
+  },
+  {
+    "de": "Wann hast du zuletzt etwas zum ersten Mal gemacht?",
+    "en": "When did you last do something for the first time?"
+  },
+  {
+    "de": "Was würdest du lieber finden: Wahrheit oder Trost?",
+    "en": "What would you rather find: truth or comfort?"
+  },
+  {
+    "de": "Wie sähe ein perfekter Tag für dich aus?",
+    "en": "What would a perfect day look like for you?"
+  },
+  {
+    "de": "Was macht für dich ein Zuhause aus?",
+    "en": "What makes a home for you?"
+  },
+  {
+    "de": "Wenn du jemandem eine einzige Erinnerung schenken könntest, welche wäre das?",
+    "en": "If you could give someone a single memory, what would it be?"
+  },
+  {
+    "de": "Was würdest du tun, wenn du einen Tag lang unsichtbar wärst?",
+    "en": "What would you do if you were invisible for a day?"
+  },
+  {
+    "de": "Wenn du eine Farbe wärst, welche wärst du?",
+    "en": "If you were a color, which would you be?"
+  },
+  {
+    "de": "Gibt es eine Frage, auf die du keine Antwort haben willst?",
+    "en": "Is there a question you don't want an answer to?"
+  },
+  {
+    "de": "Worüber denkst du zu oft nach?",
+    "en": "What do you think about too often?"
+  },
+  {
+    "de": "Was ist schlimmer: Langeweile oder Stress?",
+    "en": "What's worse: boredom or stress?"
+  },
+  {
+    "de": "Was wäre, wenn Menschen Gedanken lesen könnten?",
+    "en": "What if people could read minds?"
+  },
+  {
+    "de": "Wann fühlst du dich am lebendigsten?",
+    "en": "When do you feel most alive?"
+  },
+  {
+    "de": "Was ist ein Geräusch, das du nie vergessen wirst?",
+    "en": "What is a sound you'll never forget?"
+  },
+  {
+    "de": "Wenn du eine Nachricht an dein zukünftiges Ich schicken könntest, was würdest du schreiben?",
+    "en": "If you could send a message to your future self, what would you write?"
+  },
+  {
+    "de": "Was bedeutet es, frei zu sein?",
+    "en": "What does it mean to be free?"
+  },
+  {
+    "de": "Wann hast du zuletzt etwas verschenkt, das dir selbst wichtig war?",
+    "en": "When did you last give away something that was important to you?"
+  },
+  {
+    "de": "Wovor hast du früher Angst gehabt, das dir heute egal ist?",
+    "en": "What were you afraid of before that doesn't matter to you today?"
+  },
+  {
+    "de": "Was würdest du tun, wenn niemand dich bewerten könnte?",
+    "en": "What would you do if nobody could judge you?"
+  },
+  {
+    "de": "Wie sieht Glück aus, wenn man es malen müsste?",
+    "en": "What does happiness look like if you had to paint it?"
+  },
+  {
+    "de": "Was würdest du tun, wenn du für einen Tag alles verstehen könntest?",
+    "en": "What would you do if you could understand everything for one day?"
+  },
+  {
+    "de": "Wie alt wärst du gern, wenn du es dir aussuchen könntest?",
+    "en": "How old would you like to be if you could choose?"
+  },
+  {
+    "de": "Was würdest du lieber vergessen können?",
+    "en": "What would you rather be able to forget?"
+  },
+  {
+    "de": "Welchen Moment würdest du gern noch einmal erleben?",
+    "en": "What moment would you like to experience again?"
+  },
+  {
+    "de": "Woran merkst du, dass du jemandem vertraust?",
+    "en": "How do you know that you trust someone?"
+  },
+  {
+    "de": "Was ist schöner: Etwas Neues zu entdecken oder etwas Vertrautes wiederzufinden?",
+    "en": "What's more beautiful: discovering something new or rediscovering something familiar?"
+  },
+  {
+    "de": "Wofür lohnt es sich, zu streiten?",
+    "en": "What's worth fighting for?"
+  },
+  {
+    "de": "Wie klingt Stille für dich?",
+    "en": "What does silence sound like to you?"
+  },
+  {
+    "de": "Was ist für dich schwerer: Abschied oder Neuanfang?",
+    "en": "What's harder for you: goodbye or new beginning?"
   }
 ]
